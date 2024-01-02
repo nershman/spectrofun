@@ -1,0 +1,12 @@
+OLDMISC/
+junk/
+.ipynb_checkpoints/
+
+debug_thing.py
+*.dat
+test_cli_dry.py
+run_spectrofun_tmo.py
+*/__pycache__/
+__pycache__/
+.DS_Store
+*/.DS_Store
